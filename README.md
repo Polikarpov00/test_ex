@@ -1,7 +1,3 @@
-# go-qa-api
-
-Вопрос-ответ сервис на Go.
-
 ## Запуск через docker compose:
 
 docker compose up --build
